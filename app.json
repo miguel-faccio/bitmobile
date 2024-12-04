@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "bittales",
-    "slug": "bitmobile3",
+    "slug": "bittales",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.png",
@@ -27,8 +27,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "3d60d399-4ba8-456f-ab14-aab812e5e261"
+        "projectId": "41c705d0-5827-4f0e-8c67-86e799531a20"
       }
-    }
+    },
+    "owner": "miguel3"
   }
 }
